@@ -1,8 +1,6 @@
-#include <stdio.h>
-
 int main(){
 	
-	printf("Olá, me chamo Caio e ja programo! \n");
+	printf("Ola, me chamo Caio e ja programo! \n");
 	
 	printf("Valor inteiro : %d.\n", 10);
 	
